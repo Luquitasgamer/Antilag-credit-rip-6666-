@@ -375,7 +375,7 @@ StarterGui:SetCore("SendNotification", {
     Duration = math.huge,
     Button1 = "Okay"
 })
-warn("FPS Booster Loaded!")
+warn("carregou o antilag garotinho!")
 --game.DescendantAdded:Connect(CheckIfBad)
 --[[game.DescendantAdded:Connect(function(value)
     CheckIfBad(value)
